@@ -13,7 +13,9 @@ namespace exemploFor
             //new Exemplo01();
             //new Exemplo02();
             //new Exercicio01();
-            new Exercicio02();
+            //new Exercicio02();
+            //new Exercicio03();
+            new Exercicio04();
         }
     }
 }
